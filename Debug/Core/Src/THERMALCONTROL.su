@@ -1,0 +1,4 @@
+../Core/Src/THERMALCONTROL.c:31:7:TMA_calc_temperature	48	static
+../Core/Src/THERMALCONTROL.c:66:6:TMA_cooling_automation	40	static
+../Core/Src/THERMALCONTROL.c:95:7:temp_select	24	static
+../Core/Src/THERMALCONTROL.c:114:13:TMA_Drive_Multiplexer	40	static

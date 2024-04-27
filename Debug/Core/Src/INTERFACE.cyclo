@@ -1,0 +1,16 @@
+../Core/Src/INTERFACE.c:25:6:interface_init	1
+../Core/Src/INTERFACE.c:30:6:interface_page1	1
+../Core/Src/INTERFACE.c:50:6:interface_page2	1
+../Core/Src/INTERFACE.c:61:6:interface_write_logo	1
+../Core/Src/INTERFACE.c:67:6:interface_write_speed	1
+../Core/Src/INTERFACE.c:84:6:interface_write_power	1
+../Core/Src/INTERFACE.c:101:6:interface_write_remainingPower	1
+../Core/Src/INTERFACE.c:119:6:interface_write_remaningTime	1
+../Core/Src/INTERFACE.c:137:6:interface_write_mtrTmp	1
+../Core/Src/INTERFACE.c:157:6:interface_write_escTmp	1
+../Core/Src/INTERFACE.c:175:6:interface_write_wCoolingStatus	1
+../Core/Src/INTERFACE.c:197:6:interface_write_hAngle	1
+../Core/Src/INTERFACE.c:214:6:interface_write_erors	1
+../Core/Src/INTERFACE.c:241:6:interface_write_temps	1
+../Core/Src/INTERFACE.c:336:6:interface_write_coolings	1
+../Core/Src/INTERFACE.c:341:6:interface_write_powers	1

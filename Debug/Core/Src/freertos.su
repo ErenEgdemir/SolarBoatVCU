@@ -1,0 +1,10 @@
+../Core/Src/freertos.c:196:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/freertos.c:226:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/freertos.c:249:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:263:6:MX_FREERTOS_Init	184	static
+../Core/Src/freertos.c:322:6:Data_Management_Algorithm	16	static
+../Core/Src/freertos.c:354:6:Throttle_Algorithm	24	static
+../Core/Src/freertos.c:383:6:Temperature_Manegement_Algorithm	16	static
+../Core/Src/freertos.c:442:6:Range_Algorithm	1024	static
+../Core/Src/freertos.c:484:6:Display_Algorithm	16	static
+../Core/Src/freertos.c:549:6:Hydrofoil_Algorithm	24	static

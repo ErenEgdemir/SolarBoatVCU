@@ -1,0 +1,3 @@
+../Core/Src/RANGE.c:10:6:R_initCircularBuffer	16	static
+../Core/Src/RANGE.c:15:6:R_addCurrentReading	16	static
+../Core/Src/RANGE.c:25:7:R_calculateAverage	24	static
